@@ -25,7 +25,7 @@ public class WelcomeActivity extends Activity {
     TextView goLogin;
     @BindView(R.id.goLayout)
     RelativeLayout goLayout;
-    private ViewPagerAdapter adapter;
+//    private ViewPagerAdapter adapter;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
